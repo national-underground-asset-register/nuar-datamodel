@@ -23,7 +23,7 @@ The **[NUAR Harmonised Data Model](NUAR%20Harmonised%20Data%20Model)** is a logi
 
 **To promote wider understanding and innovation, the Geospatial Commission is making both the MUDDI UK Excavation Profile and the NUAR Harmonised Data Model publicly available for practitioners to use, adapt and provide feedback on.**
 
-A blog about this data model and its publication can be found on the [Geospatial Commission's gov.uk pages](https://geospatialcommission.blog.gov.uk/?p=1003).
+A blog about this data model and its publication can be found on the [Geospatial Commission's gov.uk pages](https://geospatialcommission.blog.gov.uk/2024/08/13/an-introduction-to-the-nuar-data-model).
 
 ## Contents
 
