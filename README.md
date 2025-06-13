@@ -31,6 +31,7 @@ A blog about this data model and its publication can be found on the [Government
 - **[NUAR Data Model Publication - General - 01 - Data Model Principles.pdf](NUAR%20Data%20Model%20Publication%20-%20General%20-%2001%20-%20Data%20Model%20Principles.pdf)** - a document outlining some of the principles which underpin the NUAR Harmonised Data Model
 - **[NUAR Data Model Publication - General - 02 - May 2024 Webinar Slides.pdf](NUAR%20Data%20Model%20Publication%20-%20General%20-%2002%20-%20May%202024%20Webinar%20Slides.pdf)** - the slide deck used for the NUAR Data Model overview webinars delivered in May 2024. A recording of the webinar can be found on the [DSIT YouTube channel](https://youtu.be/iDa5io4Z_JI).
 - **[NUAR Data Model Publication - General - 03 - Service Areas and Networks.pdf](NUAR%20Data%20Model%20Publication%20-%20General%20-%2003%20-%20Service%20Areas%20and%20Networks.pdf)** - a document outlining the representation of the boundaries and extents of Service Areas, Networks, Sites and Coverages in the NUAR Data Model.
+- **[NUAR Data Model Publication - General - 04 - Data Quality Maturity Assessment Toolkit.pdf](NUAR%20Data%20Model%20Publication%20-%20General%20-%2004%20-%20Data%20Quality%20Maturity%20Assessment%20Toolkit.pdf)** - a document providing an illustration of how elements of data quality could be measured in terms of conformance to the NUAR Harmonised Data Model.
 - **[/MUDDI UK Excavation Profile](MUDDI%20UK%20Excavation%20Profile)**: a folder containing documents, definitions and encodings for the MUDDI UK Excavation Profile:
 	- **[README.md](MUDDI%20UK%20Excavation%20Profile/README.md)** - README file for the MUDDI UK Excavation Profile
 	- **[LogicalName - MUDDI UK Excavation Profile V2.1.3 - Conformance.ods](MUDDI%20UK%20Excavation%20Profile/LogicalName%20-%20MUDDI%20UK%20Excavation%20Profile%20V2.1.3%20-%20Conformance.ods)** - a document describing conformance of the MUDDI UK Excavation Profile to the OGC MUDDI Conceptual Model
@@ -69,6 +70,7 @@ If you've got any questions or feedback, please contact the GC on <geospatialcom
 
 - 12/08/2024 - First publication of the NUAR Data Model - V2.1.2
 - 10/03/2025 - Publication of the NUAR Data Model - V2.1.3
+- 13/06/2025 - Addition of the Data Quality Maturity Assessment Toolkit
 
 ## Licence
 
